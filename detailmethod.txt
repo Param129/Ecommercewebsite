@@ -1,0 +1,28 @@
+1.frontend me pehle route add karege app.ja me fir constants declare karege fir uska reducer banege 
+us reducer ko store me add akrege fir action banege.
+
+2.import karege useSelector and useDispatch
+
+3.useselector se use karke use import kaer lege
+
+4. useEffect me use show karne k liye dispatch kar dege.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    BACKEND
+
+1. first go to comtroller and add function which you want to work
+
+2. then add route of it in routes
+
+3.then go to app.js  and import routes
